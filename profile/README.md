@@ -12,6 +12,7 @@
   <a href="https://logicinczo.github.io/zai-usage/"><img src="https://img.shields.io/badge/zai--usage-docs-2563EB?style=flat-square" alt="zai-usage docs"></a>
   <a href="https://logicinczo.github.io/zo-cobrowse/"><img src="https://img.shields.io/badge/zo--cobrowse-docs-2EA44F?style=flat-square" alt="zo-cobrowse docs"></a>
   <a href="https://logicinczo.github.io/tamil-bench/"><img src="https://img.shields.io/badge/Tamil_Bench-scoreboard-FF6B6B?style=flat-square" alt="Tamil Bench"></a>
+  <a href="https://github.com/sponsors/srikanthlogic"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
 </p>
 
 ---
